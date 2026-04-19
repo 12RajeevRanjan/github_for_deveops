@@ -13,3 +13,8 @@ git commit -m "added fist file"
   14 git remote -v                                                                                                                         
   15 git push origin master                                                                                                                
   16 git remote -v           
+  git add "commands.txt"   
+  git restore commands.txt                                                                                                              
+  27 git push origin master                                                                                                                
+  28 cat commands.txt                                                                                                                      
+  29 git status         
