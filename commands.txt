@@ -17,4 +17,5 @@ git commit -m "added fist file"
   git restore commands.txt                                                                                                              
   27 git push origin master                                                                                                                
   28 cat commands.txt                                                                                                                      
-  29 git status         
+  29 git status   
+  git add .         
