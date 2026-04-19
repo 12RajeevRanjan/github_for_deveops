@@ -1,0 +1,15 @@
+git commit -m "added fist file"                                                                                                       
+   3 git config --global user.name "Rajeev"                                                                                                
+   4 git config --global user.email "rr0579250@gmail.com"                                                                                  
+   5 git commit -m "first added"                                                                                                           
+   6 git ststus                                                                                                                            
+   7 sit status                                                                                                                            
+   8 git status                                                                                                                            
+   9 rm testing.py                                                                                                                         
+  10 git restore testing.py                                                                                                                
+  11 git status                                                                                                                            
+  12 git remote -v                                                                                                                         
+  13 git remote add origin https://github.com/12RajeevRanjan/github_for_deveops.git                                                        
+  14 git remote -v                                                                                                                         
+  15 git push origin master                                                                                                                
+  16 git remote -v           
