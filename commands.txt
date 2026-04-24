@@ -20,3 +20,4 @@ git commit -m "added fist file"
   29 git status   
   git add .         
 git
+git status
